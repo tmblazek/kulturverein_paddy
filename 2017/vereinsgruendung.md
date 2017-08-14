@@ -29,3 +29,6 @@
  ### Gründung des Kulturvereins Paddy
 
  ### Ernennung Vorstand
+
+ ### Modus Operandi der Protokolle [Thomas]
+ * Vorschlag: Computer-basiert, über GIT (versionierungstool) geregelt, und bis auf Widerruf auf [https://github.com/tmblazek/kulturverein_paddy](https://github.com/tmblazek/kulturverein_paddy) öffentlich einsehbar.
