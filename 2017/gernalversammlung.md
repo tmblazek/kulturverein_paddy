@@ -1,5 +1,9 @@
 # Generalversammlung
 
+## Ort
+
+* Ort: To be announced
+* Datum: To be announced
 ## Themen
-* Ausgaben MIST 1.25
-* Rechnungsprüfer Doris, Lauri H
+* Ausgaben Michael Strasser 1.25
+* Rechnungsprüfer Doris, Lauri Hätönen
